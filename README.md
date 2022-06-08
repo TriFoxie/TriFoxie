@@ -9,7 +9,9 @@
 </div>
 
 <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=trifoxi" />
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >
+        <img src="https://komarev.com/ghpvc/?username=trifoxi" />
+    </a>
 </div>
 
 <div align="center">
