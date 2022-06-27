@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media1.giphy.com/media/XEbDXcGQNS2uxnqLuu/giphy.gif?cid=82a1493bp701epjds7m7cvzpkxo14pxurhcfnr9ig658g0v1&rid=giphy.gif&ct=s" width="100" />
+    <img src="fox_ears.gif" width="150" />
 </div>
 
 <div id="links" align="center">
@@ -15,11 +15,12 @@
 </div>
 
 <div align="center">
-    <h3>Hewo :P</h3>
+    <h1>Hewo :P</h1>
 </div>
 
 <div align="center">
     <img src="timeToSleep.gif" />
+    <h6>Me tiiiiired :D</h6>
 </div>
 
     
