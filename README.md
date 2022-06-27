@@ -18,4 +18,8 @@
     <h3>Hewo :P</h3>
 </div>
 
+<div align="center">
+    <img src="timeToSleep.gif" />
+</div>
+
     
