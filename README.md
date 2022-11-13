@@ -17,13 +17,49 @@
     </a>
 </div>
 
-<div align="center">
+<div id="main_text" align="center">
     <h1>Hewo :P</h1>
+    <p>Hi I'm tri and I have no clue what to put here</p>
+    <p>I guess have a truth table</p>
+    <h6>AND table:</h6>
+    <table border="7">
+        <tr>
+            <td></td>
+            <td><b>A</b></td>
+            <td><b>B</b></td>
+            <td><b>C</b></td>
+        </tr>
+        <tr>
+            <td><b>0</b></td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td><b>1</b></td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td><b>2</b></td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td><b>3</b></td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+    </table>
 </div>
 
 <div align="center">
+    <h6>Im tired so Imma sleep :D</h6>
     <img src="assets/timeToSleep.gif" />
-    <h6>Me tiiiiiiired :D</h6>
+    <p>Goodnight bois... and girls... and everything in between :D<p>
 </div>
 
 
