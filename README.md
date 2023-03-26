@@ -4,10 +4,13 @@
 
 <div id="links" align="center">
     <a href="https://youtube.com/channel/UCQOCttekYgat-mh467A0wDQ">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height="30" width="107"/>
+        <img src="https://img.shields.io/badge/YouTube-magenta?style=for-the-badge&logo=youtube&logoColor=black" height="30" width="107"/>
     </a>
     <a href="https://github.com/TriFoxi">
-        <img src="https://img.shields.io/badge/Github-pink?style=for-the-badge&logo=github&logoColor=black" height="30" width="107" />
+        <img src="https://img.shields.io/badge/Github-magenta?style=for-the-badge&logo=github&logoColor=black" height="30" width="107" />
+    </a>
+    <a href="https://trifoxie.itch.io">
+        <img src="https://img.shields.io/badge/Itch.io-magenta?style=for-the-badge&logo=itch&logoColor=black" height="30" width="107" />
     </a>
 </div>
 
