@@ -22,39 +22,24 @@
 
 <div id="main_text" align="center">
     <h1>Hewo :P</h1>
-    <p>Hi I'm tri and I have no clue what to put here</p>
-    <p>I guess have a truth table</p>
-    <h6>AND table:</h6>
+    <p>Hi I'm tri!</p>
+    <h2>Featured Repos</h2>
     <table border="7">
         <tr>
-            <td></td>
-            <td><b>A</b></td>
-            <td><b>B</b></td>
-            <td><b>C</b></td>
+            <td><a href=https://github.com/TriFoxi/Repo-Sorting><b>Repo-Sorting</b></a></td>
+            <td>Sorting System for my repos, makes them easier to organise and find.</td>
         </tr>
         <tr>
-            <td><b>0</b></td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td><a href=https://github.com/TriFoxi/BattleshipsAndMineSweeper><b>MineSweeper</b></a></td>
+            <td>Command-Line MineSweeper (and battleships!)</td>
         </tr>
         <tr>
-            <td><b>1</b></td>
-            <td>0</td>
-            <td>1</td>
-            <td>0</td>
+            <td><a href=https://github.com/TriFoxi/Mandlebrot><b>Mandlebrot</b></a></td>
+            <td>Attempt at learning form apps basics.</td>
         </tr>
         <tr>
-            <td><b>2</b></td>
-            <td>1</td>
-            <td>0</td>
-            <td>0</td>
-        </tr>
-        <tr>
-            <td><b>3</b></td>
-            <td>1</td>
-            <td>1</td>
-            <td>1</td>
+            <td><a href=https://github.com/TriFoxi/Camel><b>Camel</b></a></td>
+            <td>A kinda weird game, but it's cool. Has local highscores and saves.</td>
         </tr>
     </table>
 </div>
