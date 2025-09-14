@@ -1,18 +1,3 @@
-~~Heyo~~
+Hey, I'm currently a computer science student! 😁
 
-------
-Hi, I'm TriFoxie, or Trixie, or whatever idk.
-I make stuff when I'm bored because why not... oh yeah and for assignments as a student.
-
-------
-_I don't know what to put here..._
-
-------
-```
-> I like
-> your funny
-> words magic
-> person
-```
-
-------
+[![roadmap.sh](https://roadmap.sh/card/tall/68c712d94d9410f8d143b400?variant=dark&roadmaps=%2Ccomputer-science%2Clinux%2Cgame-developer)](https://roadmap.sh)
