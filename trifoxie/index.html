@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<head>
+    <title>TriFoxie</title>
+    <link id="stylesheet" rel="stylesheet" href="triStyle.css"/>
+    <script src="https://kit.fontawesome.com/5631b092be.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div>
+        <div id="header">
+            <i class="fas fa-3" style="position:fixed;top:0;left:0;padding:1%;scale:200%"></i>
+            <div id="box_link_container">
+                <iframe id="spot_playlist" class="box_link" src="https://open.spotify.com/embed/playlist/2H7afOJHdOqESjCkpVBLzU?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                <img src="../Assets/Images/Placeholder.png" class="box_link"></img>
+            </div>
+            <a href="https://trifoxie.itch.io"><button>Play</button></a>
+        </div>  
+        <div id="side_menus">
+            <div id="left_menu">
+                <div style="position:fixed;bottom:1%;">
+                    <div class="zoom">
+                        <a href="https://github.com/TriFoxie"><i class="fa-brands fa-github"></i></a>
+                    </div> 
+                </div>
+                <div style="position:fixed;bottom:3.5%;">
+                    <div class="zoom">
+                        <a href="https://discord.com/users/908380612207992853"/><i class="fa-brands fa-discord"></i>
+                    </div>
+                </div>
+                <div style="position:fixed;bottom:6%;">
+                    <div class="zoom">
+                        <a href="https://youtube.com/@trifoxie"/><i class="fa-brands fa-youtube"></i>
+                    </div>
+                    <h1></h1>
+                </div>
+            </div>
+            <div id="right_menu">
+                <div class="zoom"><a href="mailto:somethingimpossible122@gmail.com+www.tripnia.net/trifoxie@gmail.com">somethingimpossible122@gmail.com</a></div>
+            </div>
+        </div>
+        <div id="content">
+            <div class="title">
+                <p id="intro">Heyo, I'm</p>
+                <p id="name">TriFoxie</p>
+                <p id="who">I make games</p>
+                <p id="description">I'm an amateur game dev and mainly use Unity.</p>
+            </div>
+            <div class="contentBlock">
+                <h1>About Me</h1>
+                <p>
+                    I'm an aspiring game and software developer and currently a student.
+                    I enjoy playing video games such as Destiny 2, Beat Saber and Warthunder.
+                </p>
+            </div>
+            <div class="contentBlock">
+                <h1>Qualifications</h1>
+                <p>Currently studying Computer Science at the <a href="https://www.sussex.ac.uk/">University of Sussex</a></p>
+            </div>
+            <div class="contentBlock">
+                <h1>Trixie</h1>
+                <img class="left" src="../Assets/Images/PFPTrixie.png"/>
+                <img class="right" src="../Assets/Images/VRCTrixie.png"/>
+                <p>This is my character for anything that needs one. D&D, video games, anything. She's called Trixie!</p>
+            </div>
+        </div>
+        <div id="games">
+            <div class="games">
+                <h1>Projects</h1>
+                <iframe src="https://itch.io/embed/3842484?border_width=0&amp;bg_color=161616&amp;fg_color=ffff00&amp;link_color=ffff00&amp;border_color=333333"><a href="https://trifoxie.itch.io/swordsandbullets">Swords And Bullets by TriFoxie</a></iframe>
+            </div>
+            <div class="games_left">
+                <h1>Game Jams</h1>
+                <iframe src="https://itch.io/embed/3161777?bg_color=000000&amp;fg_color=ffffff&amp;link_color=ffffff&amp;border_color=333333" ><a href="https://trifoxie.itch.io/mirrored">Mirrored by TriFoxie</a></iframe>
+            </div>
+            <div class="games_right">
+                <h1>Smol Games</h1>
+                <iframe src="https://itch.io/embed/3431218?linkback=true&amp;bg_color=40c9ff&amp;fg_color=ff4000&amp;link_color=ff390c&amp;border_color=ff5528"><a href="https://trifoxie.itch.io/pets">Super Tiny Pets by TriFoxie</a></iframe>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    for (let img of document.querySelectorAll('img[data-src]')) {   
+        if(!local){
+            img.src = domain + "/" + img.dataset.src;
+        }else{
+            img.src = img.dataset.src;
+        }
+    }
+</script>
