@@ -191,4 +191,60 @@
             width: 100%;
         }
     }
+
+    .git-project {
+        background: var(--colorA);
+        color: var(--colorB);
+        border: 2px solid var(--light_text);
+        border-radius: 10px;
+        padding: 5px;
+        margin-top: 180px;
+        height: 118px;
+        width: 99%;
+
+        #image {
+            border: 2px solid var(--colorB);
+            height: 100%;
+            width: auto;
+            margin-top: -2px;
+        }
+
+        button {
+            background: var(--colorB);
+            p {
+                color: var(--colorA);
+            }
+            border-radius: 5px;
+            border: none;
+            margin-top: 10px;
+        }
+        button:hover {
+            background: var(--colorA);
+            p {
+                color: var(--colorB);
+            }
+        }
+
+        .git-project-text {
+            padding: 10px;
+            margin-left: 133px;
+            border-left: 1px solid var(--colorB);
+        }
+
+        .git-project-description {
+            font-size: 90%;
+        }
+
+        h1 {
+            color: var(--colorB);
+            border-bottom: 0;
+            text-align: left;
+        }
+
+        h1:hover {
+            border-bottom: 2px solid;
+            width: auto;
+            margin-bottom: 1px;
+        }
+    }
 }
